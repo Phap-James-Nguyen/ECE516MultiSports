@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+yolo/
+
+# Datasets and runs
+dataset/
+datasets/
+data/
+runs/
+*.zip
+
+# Model weights
+*.pt
+*.onnx
+*.engine
+
+# IDE stuff
+.vscode/
+.idea/
+*.code-workspace
